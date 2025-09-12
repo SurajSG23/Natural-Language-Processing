@@ -1,9 +1,3 @@
-Got it 👍 You want a **beginner-friendly README** that explains what each of these imports/tools are used for, in a natural flow (not just line-by-line comments). I’ll structure it like a **mini project README** that someone new to NLP/ML could follow and understand.
-
-Here’s a draft you can use as your README 👇
-
----
-
 # 📝 NLP + Machine Learning Toolkit
 
 This project combines **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques to analyze, clean, and classify text data.
